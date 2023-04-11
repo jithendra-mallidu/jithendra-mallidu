@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jitu700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jitu700" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jithendra chowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendra chowdary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jithendra-chowdary-b14927108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendra chowdary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
